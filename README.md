@@ -1,4 +1,4 @@
-# attendence_simplifier_app
+# jayattendly
 
 A new Flutter project.
 
